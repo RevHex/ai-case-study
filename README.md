@@ -14,27 +14,27 @@
 
 ## Business Activities
 
-* The clandestine insight surrounding corporate investments, lobbyists, and even stock trades among congressional members, shielded by hedge funds and brokerage firms alike.
+* To make the clandestine insight surrounding corporate investments, lobbyists, and even stock trades among congressional members, that have been shielded by hedge funds and brokerage firms alike more accessible and practical.
 
-* Investors, both laymen and professional alike. 
+* The target audience is retail investors, both laymen and professional alike. 
 
-* By making this "alternative" data more accessible.
+* By making this "alternative" data more accessible and offering api subscriptions.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Their expertise lies in employing data analytics and machine learning to scrutinize financial data, aiding their clients in making well-informed investment choices. They provide an array of products and services, encompassing data feeds, bespoke research reports, and investment software tools.
 
 ## Landscape
 
-* What field is the company in?
+* Fintech
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* In general fintech aims to disrupt and ultimately supplant conventional financial service providers by demonstrating greater agility, catering to an overlooked segment of the population, or delivering swifter and superior service.
 
-* What are the other major companies in this field?
+* Currently, the three most highly valued fintech companies are Ant Group, Stripe, and Revolut.
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Bringing to light congressioanl investments, exposing trends of insider trading, government contract statements, and providing data sets and api that normally would not be available to the leyman. 
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* Customer acquisition cost, customer lifetime value, and monthly recurring revenue are some of the core metrics used to mesaure companies in fintech. How is your company performing based on these metrics?
 
 * How is your company performing relative to competitors in the same field?
 
