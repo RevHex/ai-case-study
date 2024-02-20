@@ -1,8 +1,9 @@
-# TITLE
+# QUIVER QUANTITATIVE
+
+
+
 
 ## Overview and Origin
-
-* Quiver Quantitative
 
 * Fast Tracked in February of 2020
 
@@ -36,14 +37,12 @@
 
 * Customer acquisition cost, customer lifetime value, and monthly recurring revenue are some of the core metrics used to mesaure companies in fintech. How is your company performing based on these metrics?
 
-* How is your company performing relative to competitors in the same field?
+* Based on the limited resources available for comparison with other competitors in fintech, it appears they rank somewhere in the middle. Keep in mind that they are a small business with only 15 employees.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If their aim was to attract a broader audience, I would recommend providing their back testing program for free or at an entry-level price, albeit with limited access.
 
-* Why do you think that offering this product or service would benefit the company?
+* This avenue has the potential to assist individuals with minimal or no investment background in becoming more accustomed to the concept. Expanding the consumer base would directly influence profitability, along with other fundamental metrics in the fintech industry.
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* There wouldn't be a necessity for new software or hardware as it would leverage existing resources under their ownership and control. My proposal would merely alter the utilization and accessibility of their current program.
