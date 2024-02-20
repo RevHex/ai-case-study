@@ -1,4 +1,5 @@
 # QUIVER QUANTITATIVE
+![Static Badge](https://img.shields.io/badge/Quantitative%20-%20black?style=plastic&label=Quiver&labelColor=%23FFD150)
 
 
 
