@@ -1,7 +1,5 @@
 # QUIVER QUANTITATIVE
-![Static Badge](https://img.shields.io/badge/Quantitative%20-%20black?style=plastic&label=Quiver&labelColor=%23FFD150)
-
-
+![Static Badge](https://img.shields.io/badge/Quantitative%20-%20%23FFD150?style=plastic&label=Quiver&labelColor=%23000000)
 
 
 ## Overview and Origin
