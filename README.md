@@ -2,15 +2,18 @@
 ![Static Badge](https://img.shields.io/badge/Quantitative%20-%20%23FFD150?style=plastic&label=Quiver&labelColor=%23000000)
 
 
-## Overview and Origin
+<details open> 
+<Summary> ## Overview and Origin </summary>
+<ul>
+<li>* Fast Tracked in February of 2020</li>
 
-* Fast Tracked in February of 2020
+<li>* Founded by Christopher and James Kardatze</li>
 
-* Founded by Christopher and James Kardatze
+<li>* Quiver Quant started as a hobby after they learned to code in high school. They posted their first data sets and visuals during their undergrad.</li>
 
-* Quiver Quant started as a hobby after they learned to code in high school. They posted their first data sets and visuals during their undergrad.
-
-* After their feature in Bloomberg they decided to turn their project into a business. At launch they had landed about $100,000 and by the end of the year they raised another $500,000.
+<li>* After their feature in Bloomberg they decided to turn their project into a business. At launch they had landed about $100,000 and by the end of the year they raised another $500,000.</li>
+</ul>
+</details>
 
 ## Business Activities
 
