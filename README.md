@@ -1,4 +1,5 @@
 # AI in FINTECH
+![alt text](https://github.com/RevHex/ai-case-study/blob/main/quiver.jpg)
 ![Static Badge](https://img.shields.io/badge/Quantitative%20-%20%23FFD150?style=plastic&label=Quiver&labelColor=%23000000)
 
 
