@@ -2,9 +2,9 @@
  <b><font size="+1"><font color="#1F5AF5"> Focus on Quiver Quantitative
  </font></b>
 
-<img src="https://github.com/RevHex/ai-case-study/blob/main/quiver.jpg" width="200" height="200" />
+<img src="https://github.com/RevHex/ai-case-study/blob/main/quiver.jpg" width="300" height="300" />
 
-![alt text](https://github.com/RevHex/ai-case-study/blob/main/vega-selection-by-line.gif)
+<img src="https://github.com/RevHex/ai-case-study/blob/main/vega-selection-by-line.gif" width="75%" height="75%" />
 
 ![Static Badge](https://img.shields.io/badge/Quantitative%20-%20%23FFD150?style=plastic&label=Quiver&labelColor=%23000000)
 
