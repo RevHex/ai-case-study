@@ -2,7 +2,7 @@
  <b><font size="+1"><font color="#1F5AF5"> Focus on Quiver Quantitative
  </font></b>
 
-![alt text](https://github.com/RevHex/ai-case-study/blob/main/quiver.jpg)
+![alt text](https://github.com/RevHex/ai-case-study/blob/main/quiver.jpg | width=250x250)
 
 ![alt text](https://github.com/RevHex/ai-case-study/blob/main/vega-selection-by-line.gif
 )
