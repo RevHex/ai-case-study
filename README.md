@@ -1,4 +1,7 @@
 # AI in FINTECH
+ <b><font size="+1"><font color="#1F5AF5"> Focus on Quiver Quantitative
+ </font></b>
+
 ![alt text](https://github.com/RevHex/ai-case-study/blob/main/quiver.jpg)
 
 ![Static Badge](https://img.shields.io/badge/Quantitative%20-%20%23FFD150?style=plastic&label=Quiver&labelColor=%23000000)
@@ -9,9 +12,9 @@
 <ul>
 <li> Fast tracked in Feb 2020 the company was founded by Christopher and James Kardatze</li>
 
-<li> Quiver Quantitative started as a hobby after they learned to code in high school. They posted their first data sets and visuals during their undergrad.</li>
+<li> <font color="#1F5AF5">Quiver Quantitative</font> started as a hobby after they learned to code in high school. They posted their first data sets and visuals during their undergrad.</li>
 
-<li> After their feature in Bloomberg they decided to turn their project into a business. At launch they had landed about $100,000 and by the end of the year they raised another $500,000.</li>
+<li> After their feature in Bloomberg they decided to turn their project into a business. At launch they had landed about <font color="#14DC5A">$100,000</font> and by the end of the year they raised another <font color="#14DC5A">$500,000</font>.</li>
 </ul>
 </details>
 
